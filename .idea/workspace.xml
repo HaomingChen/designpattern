@@ -2,27 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4df0409-a8f5-48cf-bed5-f61025f7dda0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/decorator/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/observer/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/haoming/strategy/Squeak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/haoming/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyNoWay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyWithWings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MallardDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MiniDuckSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MuteQuack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Quack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/QuackBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Squeak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-module/src/test/java/com/haoming/AppTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/strategy-module/target/" />
+    <ignored path="$PROJECT_DIR$/observer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,37 +52,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Duck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding>
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MallardDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyBehavior.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/QuackBehavior.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
               <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
@@ -71,83 +61,82 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyWithWings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyNoWay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/QuackBehavior.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Quack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MuteQuack.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyBehavior.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-              <folding>
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Squeak.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MiniDuckSimulator.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/decorator/Beverage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/decorator/DarkRoast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/MuteQuack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyWithWings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/Squeak.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/MiniDuckSimulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/MallardDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/Quack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -180,6 +169,18 @@
         <option value="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Squeak.java" />
         <option value="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MiniDuckSimulator.java" />
         <option value="$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/observer/pom.xml" />
+        <option value="$PROJECT_DIR$/observer/src/main/java/com/haoming/Subject.java" />
+        <option value="$PROJECT_DIR$/observer/src/main/java/com/haoming/Observer.java" />
+        <option value="$PROJECT_DIR$/observer/src/main/java/com/haoming/DisplayElement.java" />
+        <option value="$PROJECT_DIR$/observer/src/main/java/com/haoming/CurrentConditionsDisplay.java" />
+        <option value="$PROJECT_DIR$/observer/src/main/java/com/haoming/WeatherData.java" />
+        <option value="$PROJECT_DIR$/observer/src/main/java/com/haoming/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/haoming/observer/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyNoWay.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/haoming/decorator/DarkRoast.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/haoming/decorator/Beverage.java" />
       </list>
     </option>
   </component>
@@ -191,16 +192,18 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="294" />
-    <option name="y" value="17" />
-    <option name="width" value="1107" />
-    <option name="height" value="673" />
+    <option name="x" value="-67" />
+    <option name="y" value="12" />
+    <option name="width" value="1386" />
+    <option name="height" value="712" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,66 +220,53 @@
               <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy-module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy-module" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy-module" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy-module" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy-module" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="haoming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="haoming" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566810201523" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569828283248" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\designpattern\src\test\java\com\haoming\strategy" />
+      <recent name="E:\IdeaProjects\designpattern\src\test\java\com\haoming\observer" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -290,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MiniDuckSimulator">
+  <component name="RunManager" selected="Application.WeatherStation">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.haoming.App" />
       <module name="designpattern" />
@@ -317,8 +307,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haoming.WeatherStation" />
+      <module name="observer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haoming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.MiniDuckSimulator" />
         <item itemvalue="Application.App" />
       </list>
@@ -336,14 +340,19 @@
       <updated>1566748345788</updated>
       <workItem from="1566748350244" duration="967000" />
       <workItem from="1566786497841" duration="8214000" />
+      <workItem from="1569207417150" duration="13241000" />
+      <workItem from="1569823983514" duration="2280000" />
+      <workItem from="1570500130116" duration="11000" />
+      <workItem from="1570760444037" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9181000" />
+    <option name="totallyTimeSpent" value="24737000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="359" y="12" width="1386" height="712" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
@@ -351,25 +360,24 @@
       <window_info id="Image Layers" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.27224737" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.22557172" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.22295082" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="5" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.34918034" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.39517626" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.29016393" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -380,141 +388,140 @@
       <window_info anchor="right" id="Commander" order="7" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/strategy-module/pom.xml">
+    <entry file="file://$PROJECT_DIR$/strategy-module/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haoming/App.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MallardDuck.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyBehavior.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyWithWings.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyNoWay.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/QuackBehavior.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MuteQuack.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Squeak.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MiniDuckSimulator.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Duck.java" />
+    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Quack.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="1760">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/App.java">
+    <entry file="file://$PROJECT_DIR$/observer/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/observer/src/main/java/com/haoming/Observer.java" />
+    <entry file="file://$PROJECT_DIR$/observer/src/main/java/com/haoming/DisplayElement.java" />
+    <entry file="file://$PROJECT_DIR$/observer/src/main/java/com/haoming/Subject.java" />
+    <entry file="file://$PROJECT_DIR$/observer/src/main/java/com/haoming/WeatherData.java" />
+    <entry file="file://$PROJECT_DIR$/observer/src/main/java/com/haoming/CurrentConditionsDisplay.java" />
+    <entry file="file://$PROJECT_DIR$/observer/src/main/java/com/haoming/WeatherStation.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/observer/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/observer/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/observer/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/observer/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyNoWay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haoming/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#521#522#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1738">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/QuackBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Squeak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyBehavior.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/QuackBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/FlyWithWings.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MallardDuck.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/decorator/DarkRoast.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy-module/src/main/java/com/haoming/MiniDuckSimulator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/MuteQuack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/Squeak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/MiniDuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/strategy/Quack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/haoming/decorator/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>

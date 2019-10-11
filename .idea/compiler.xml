@@ -6,9 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="strategy-module" />
         <module name="strategymodule" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="observer" target="1.7" />
+      <module name="strategy-module" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

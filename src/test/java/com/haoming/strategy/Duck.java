@@ -1,4 +1,4 @@
-package com.haoming;
+package com.haoming.strategy;
 
 /**
  * @author Haoming Chen
